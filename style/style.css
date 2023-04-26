@@ -671,6 +671,7 @@ main {
     justify-content: center;
     align-items: center;
     background-color: #111;
+    transition: all 0.3s ease-in-out;
 }
 
 .grid_image>.image>img {
@@ -683,8 +684,9 @@ main {
 
 .grid_image .image:hover {
     z-index: 1;
-    transform: scale(2);
+    transform: scale(1.5);
     border-radius: 5px;
+    transition: all 0.3s ease-in-out;
 }
 
 .bl_N4 #bl1 {
