@@ -939,7 +939,7 @@ footer {
     }
 
     .dropD_nav a {
-        font-size: 2.3rem;
+        font-size: 4rem;
     }
 
     .dropD_nav .about.show .about_more {
@@ -955,7 +955,7 @@ footer {
     }
 
     .about_more a {
-        font-size: 2rem;
+        font-size: 3rem;
     }
 
     .burg_menu img {
@@ -1069,11 +1069,11 @@ footer {
     }
 
     .block_name h1 {
-        font-size: 3rem;
+        font-size: 4rem;
     }
 
     .slide_block p {
-        font-size: 2rem;
+        font-size: 3rem;
     }
 
     .grid_image {
