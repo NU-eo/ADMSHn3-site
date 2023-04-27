@@ -10,6 +10,11 @@ closeOpenBtn.addEventListener("click", () => {
   navLinks.style.right = "-100%";
 });
 
+navLinks.addEventListener("click", () => {
+  navLinks.style.right = "-100%";
+});
+
+
 let aboutMore = document.querySelector(".open-about");
 let about = document.querySelector(".about");
 
